@@ -16,15 +16,15 @@ Understand the role and mechanics of Kafka partitioners in data distribution.
 
 ### 📘 주키퍼, 파티셔너 개수
 Delve into the relationship between Zookeeper and the number of partitioners in Kafka.
-[🔗 Go to 주키퍼, 파티셔너 개수.ipynb](./주키퍼, 파티셔너 개수.ipynb)
+[🔗 Go to 주키퍼, 파티셔너 개수.ipynb](./주키퍼,%20파티셔너%20개수.ipynb)
 
 ### 📘 브로커, 복제, ISR
 Discover the intricacies of brokers, replication, and ISR in the Kafka ecosystem.
-[🔗 Go to 브로커, 복제, ISR.ipynb](./브로커, 복제, ISR.ipynb)
+[🔗 Go to 브로커, 복제, ISR.ipynb](./브로커,%20복제,%20ISR.ipynb)
 
 ### 📘 Kafka Once Delivery
 Unearth the mechanisms behind Kafka's once delivery system and its implications.
-[🔗 Go to Kafka_once delivery.ipynb](./Kafka_once delivery.ipynb)
+[🔗 Go to Kafka_once delivery.ipynb](./Kafka_once%20delivery.ipynb)
 
 ### 📘 kafka stream topology
 Get acquainted with the stream topologies in Kafka and their role in data streaming.

@@ -37,7 +37,7 @@ Understand the Ingress controllers and resources for external access.
 
 ### 📘 init Container
 Learn about init Containers that run before the main containers.
-[🔗 Go to init Container.ipynb](./init Container.ipynb)
+[🔗 Go to init Container.ipynb](./init%20Container.ipynb)
 
 ### 📘 Kustomize
 Explore Kustomize for customizing Kubernetes configurations.
@@ -45,7 +45,7 @@ Explore Kustomize for customizing Kubernetes configurations.
 
 ### 📘 Namespace & 롤링업데이트
 Dive into namespaces for isolating resources and rolling updates in Kubernetes.
-[🔗 Go to Namespace, 롤링업데이트.ipynb](./Namespace, 롤링업데이트.ipynb)
+[🔗 Go to Namespace, 롤링업데이트.ipynb](./Namespace,%20롤링업데이트.ipynb)
 
 ### 📘 POD
 Discover the core unit of deployment in Kubernetes: the Pod.
@@ -58,7 +58,7 @@ Learn about Persistent Volumes (PV) and Persistent Volume Claims (PVC) for stora
 
 ### 📘 Replica & Label
 Explore the importance of replicas and labels for scaling and organizing in Kubernetes.
-[🔗 Go to Replica, Label.ipynb](./Replica, Label.ipynb)
+[🔗 Go to Replica, Label.ipynb](./Replica,%20Label.ipynb)
 
 ### 📘 Scheduling Lifecycle
 Discover how Kubernetes schedules workloads and the lifecycle of scheduling.

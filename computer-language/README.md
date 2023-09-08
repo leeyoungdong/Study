@@ -1,13 +1,21 @@
-# computer-python
+---
 
-컴퓨터 및 언어에 관한 기술들을 공부 / 정리하기 위해 사용하는 레포입니다.
+## 🌟 Fundamental Technology Concepts
 
-# * 방법
-- 관련 기술 KEYWORD 탐색
-- 기술 내용 및 주요 내용 습득
-- 관련 기술 카피코딩 및 실습
+### 📘 Linux
+Dive into the world of Linux, an open-source, Unix-like operating system that powers a significant portion of the world's servers, desktops, and embedded systems.
+- [🔗 Explore Linux Concepts](./Linux/)
 
-|일자(월)|토픽|변경내용|
-|:---:|:---:|---|
-|12|OS, NETWORK|네트워크 및 OS 파일 분리|
-|1|Linux|리눅스 관련 파일 생성 및 코드|
+### 📘 Network
+Discover the intricate details of networking, from basic protocols to advanced networking concepts. Understand how data is transferred and processed across digital networks.
+- [🔗 Dive into Networking](./Network/)
+
+### 📘 OS (Operating System)
+Learn about Operating Systems, the software that acts as an intermediary between computer hardware and the computer user, providing a user interface and controlling the computer hardware.
+- [🔗 Explore Operating Systems](./OS/)
+
+### 📘 Python
+Embark on a journey with Python, a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability and rapid development.
+- [🔗 Discover Python](./Python/)
+
+---
