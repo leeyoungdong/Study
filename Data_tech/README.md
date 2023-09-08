@@ -1,11 +1,17 @@
-# Data_tech
-데이터 기술에 관한 기술들을 공부 / 정리하기 위해 사용하는 레포입니다.
+---
 
-# * 방법
-- 관련 기술 KEYWORD 탐색
-- 기술 내용 및 주요 내용 습득
-- 관련 기술 카피코딩 및 실습
+## 🌟 Spark
 
-|일자(월)|기술이름|변경내용|실습 유무|
-|:---:|:---:|---|:---:|
-|12|KAFKA|카프카 내용 추가|O|
+Dive deep into Apache Spark, an open-source, distributed computing system. Explore its fundamental concepts, capabilities in processing large datasets, and its integrations with big data tools.
+
+[🔗 Go to Spark Section](./spark/)
+
+---
+
+## 📤 Kafka
+
+Explore Apache Kafka, a stream-processing software platform. Understand its architecture, its role in real-time data processing, and how it serves as a backbone for many distributed systems.
+
+[🔗 Go to Kafka Section](./kafka/)
+
+---
