@@ -23,3 +23,5 @@ for i in range(n):
     result = max(result, min_val)
 
 print(result)
+
+
