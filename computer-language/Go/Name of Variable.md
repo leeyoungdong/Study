@@ -13,10 +13,10 @@ var ß float32
 - 또한 Go는 변수 이름에 **예약어**와 **키워드**를 사용할 수 없다.
 
 **Go의 키워드**
-![Alt text](image.png)
+![Alt text](image/image.png)
 
 **Go의 예약어**
-![Alt text](image-1.png)
+![Alt text](image/image-1.png)
 <br>
 
 ---
